@@ -24,4 +24,3 @@ As I'm recovering from [Burnout](https://en.wikipedia.org/wiki/Occupational_burn
 - Book your meeting space ahead of time, or give yourself 10 minutes before the meeting to figure it out. Wandering the halls with everyone in tow is wasting everyone's time.
 - Set an agenda, and share it at the beginning of the meeting to keep everyone on track.
 - If the meeting is over an hour long, schedule time for breaks, and let attendees know about them ahead of time. Knowing they can check their email in 45 minutes will help keep them focused now.
-- 
