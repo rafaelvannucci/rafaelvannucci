@@ -2,13 +2,6 @@
 
 - :telescope: I’m working as a Senior Software Engineer and contributing to SaaS/DevOps.
 
----
-### How to reach me:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/rafaelvleda/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 ---
 ### The Do’s and Don’ts of Scheduling Meetings
@@ -24,3 +17,14 @@ As I'm recovering from [Burnout](https://en.wikipedia.org/wiki/Occupational_burn
 - Book your meeting space ahead of time, or give yourself 10 minutes before the meeting to figure it out. Wandering the halls with everyone in tow is wasting everyone's time.
 - Set an agenda, and share it at the beginning of the meeting to keep everyone on track.
 - If the meeting is over an hour long, schedule time for breaks, and let attendees know about them ahead of time. Knowing they can check their email in 45 minutes will help keep them focused now.
+
+---
+### How to reach me:
+<div id="badges">
+  <a href="https://app.slack.com/client/T024U97V8/D011SN0C5NG">
+     <img src="https://img.shields.io/badge/Slack-red?style=for-the-badge&logo=Slack&logoColor=white" alt="Slack Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rafaelvleda/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
