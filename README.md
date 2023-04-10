@@ -28,4 +28,3 @@ As I'm recovering from [Burnout](https://en.wikipedia.org/wiki/Occupational_burn
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-# rafaelvannucci.github.io
