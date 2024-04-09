@@ -6,7 +6,7 @@
 ---
 ### The Do’s and Don’ts of Scheduling Meetings
 
-As I'm recovering from [Burnout](https://en.wikipedia.org/wiki/Occupational_burnout), this guide will help myself to fastly recover and protect from other crisis, so thank you for following it: 🙇‍♂️
+This guide will help myself organizing my agenda, so thank you for following it: 🙇‍♂️
 - Make sure you really need a meeting before scheduling it. Could this be resolved asynchronously by slack instead?
 - Every meeting should have a purpose: You either need to make a decision or complete an action together.
 - Do not schedule more time than you need. Most meetings are scheduled for a full hour, when they should be 10 minutes, 20 minutes, or 30 minutes—max.
