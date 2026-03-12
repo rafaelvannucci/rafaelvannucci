@@ -1,6 +1,6 @@
 ### 👨‍💻 About Me
 
-- 🔭 I’m working as a Senior Software Engineer and contributing to SaaS/DevOps.
+- 🔭 I’m working as a Lead Software Engineer and contributing to SaaS/DevOps.
 
 
 ---
